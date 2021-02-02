@@ -226,3 +226,10 @@ p {
 .showcase-blog {
   padding-bottom: 6rem;
 }
+
+.blog-div {
+  max-width: 700px;
+  font-family: monospace;
+  font-weight: bold;
+  color: dimgray;
+}
