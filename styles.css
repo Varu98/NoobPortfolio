@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Ubuntu:wght@400;700&display=swap");
 
 :root {
-  --primary-color: #10b981;
-  --off-white: #1a2b42;
+  --primary-color: #48cae4;
+  --off-white: #0096c7;
   --dark-gray: #1e3a8a;
 }
 
@@ -20,12 +20,13 @@ hr {
 }
 
 p {
-  color: #10b981;
+  text-align: center;
+  color: #fff;
   font-family: "Ubuntu", sans-serif;
   font-size: large;
 }
 .p1 {
-  color: grey;
+  color: #fff;
 }
 
 /** spaces **/
@@ -176,7 +177,7 @@ p {
 
 .section h1 {
   text-align: center;
-  color: gray;
+  color: #fff;
   font-family: "Montserrat", sans-serif;
   font-size: 40px;
 }
@@ -192,7 +193,7 @@ p {
 
 .footer {
   background-color: var(--primary-color);
-  padding: 4rem 1rem;
+  padding: 2rem 1rem;
   text-align: center;
   color: white;
   border-top-right-radius: 1rem;
